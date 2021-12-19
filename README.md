@@ -7,6 +7,6 @@ Site de Marketplace.
 
 
 Participantes:
-Guilherme Jurazek Guedes
-João Vitor Nunes Ros Garrido
+Guilherme Jurazek Guedes |
+João Vitor Nunes Ros Garrido |
 Mateus Bonassa Ederli
