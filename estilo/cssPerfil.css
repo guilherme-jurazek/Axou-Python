@@ -1,0 +1,315 @@
+
+.imguser{
+    max-width: 10px;
+    
+}
+
+.edproduto{
+	height: 320px;
+	position: absolute;
+	width: 270px;
+	border-radius: 10px;
+	transition: 0.2s;
+	text-align: center;
+}
+
+.textdest1{
+	position: absolute;
+	top: 19%;
+	left: 34%;
+	text-shadow: 2px 2px #EEEEEE;
+
+}
+.textdestChat{
+	position: absolute;
+	top: 19%;
+	left: 46%;
+	text-shadow: 2px 2px #EEEEEE;
+
+}
+.textLabel{
+	border: 3px solid #f44336;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 47%;
+	left: 27%;
+	position: relative;
+}
+
+.caixaChat{
+
+	border: 3px solid #f44336;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 47%;
+	height: 90%;
+	left: 27%;
+	position: relative;
+	margin-bottom: 25px;
+}
+
+.user-img{
+	width: 7%;
+	margin-top: 5px;
+	margin-left: 8px;
+}
+
+
+.textName{
+	position: absolute;
+	left: 12%;
+	font-size: 19px;
+	top: 1%;
+}
+
+.mensagem{
+	margin: 3px;
+	position: relative;
+	transition: 0.8s;
+}
+
+.mensagem:hover{
+	box-shadow: 10px 10px 20px darkgray;
+	width: 560px;
+ 	cursor: pointer;
+}
+
+.dataChat{
+	position: absolute;
+	left: 65%;
+	font-size: 19px;
+	top: 1%;
+}
+
+.notific{
+	position: absolute;
+	left: 94%;
+	width: 2%;
+	height: 20%;
+	top: 44%;
+	border-radius: 50%;
+	background-color: #00A0FF;
+	box-shadow: 0px 0px 15px #000FFF;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+.nomeUsuario{
+	text-align: center;
+	position: relative;
+}
+
+.mensagemRec{
+ 	border-radius: 10px;
+ 	background-color: lightgray;
+ 	padding: 10px;
+ 	width: 40%;
+ 	top: 8%;
+ 	position: relative;
+ 	margin-top: 10px;
+}
+
+.mensagemEnv{
+ 	border-radius: 10px;
+ 	background-color: #AFAFAF;
+ 	padding: 10px;
+ 	width: 40%;
+ 	top: 8%;
+ 	left: 60%;
+ 	position: relative;
+ 	margin-top: 10px;	
+}
+
+.horario{
+	position: absolute;
+	left: 73%;
+	font-size: 13px;
+	top: 38%;
+}
+
+.buttonEnviar {
+  background-color: white;
+  color: black;
+  border: 3px solid #f44336;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+  padding: 20px 10px;
+  text-align: center;
+  font-size: 17px;
+  display: inline-block;
+  font-family: Verdana;
+  font-weight: 600;
+  position: absolute;
+  top: 77.8%;
+  left: 82%;
+}
+.buttonEnviar:hover {
+  background-color: #f44336;
+  color: white;
+  cursor: pointer;
+}
+
+
+.caixaPedidoA{
+
+	border: 3px solid #00FF0F;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 2%;
+	position: absolute;
+	margin-bottom: 25px;
+}
+
+.caixaPedidoB{
+
+	border: 3px solid #008FFF;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 26%;
+	position: absolute;
+	margin-bottom: 25px;
+}
+
+
+.caixaPedidoC{
+
+	border: 4px solid #FFFF00;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 50%;
+	position: absolute;
+	margin-bottom: 25px;
+}
+
+.caixaPedidoD{
+
+	border: 3px solid #f44336;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 74%;
+	position: absolute;
+	margin-bottom: 25px;
+
+}
+
+.Pedido{
+	position: relative;
+	transition: 0.8s;
+	left: 1%;
+	border: 1px solid #DEDEDE;	
+	padding: 3px;
+	margin: 6px;
+}
+
+.Pedido:hover{
+	box-shadow: 10px 10px 20px darkgray;
+	width: 105%;
+ 	cursor: pointer;
+}
+
+.textP{
+	position: relative;
+	left: 1%;
+	font-size: 15px;
+	top: 1%;
+}
+
+.dataP{
+	position: relative;
+	left: 1%;
+	font-size: 15px;
+	top: 1%;
+}
+
+.caixaCompraA{
+
+	border: 3px solid #00FF0F;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 26%;
+	position: absolute;
+	margin-bottom: 25px;
+}
+
+.caixaCompraB{
+
+	border: 3px solid #008FFF;
+	font-family: Arial;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 25px;
+	width: 23%;
+	height: 70%;
+	left: 50%;
+	position: absolute;
+	margin-bottom: 25px;
+}
+
+.textdestCompra{
+	position: absolute;
+	top: 19%;
+	left: 38%;
+	text-shadow: 2px 2px #EEEEEE;
+
+}
+
+
+.textName{
+	position: absolute;
+	left: 10%;
+	font-size: 19px;
+	top: 1%;
+}
+
+.dataChat{
+	position: absolute;
+	left: 65%;
+	font-size: 19px;
+	top: 1%;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 3px solid #00FF0A;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 13px;
+  display: inline-block;
+  font-family: Verdana;
+  font-weight: 500;
+}
+
+.button2:hover {
+  background-color: #00FF0A;
+  color: white;
+  cursor: pointer;
+}
